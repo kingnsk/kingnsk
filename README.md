@@ -3,7 +3,8 @@
                        hardware (from zx80 to Intel and AMD current platforms), 
                        software (Windows, *nix, etc...)  
 - 🌱 I’m currently learning C# on geekbrains.ru
-- 📫 How to reach me: kingnsk2020@gmail.com
+- 📫 How to reach me: kingnsk@gmail.com 
+- Telegramm: @king_nsk
 
 <!---
 kingnsk/kingnsk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
